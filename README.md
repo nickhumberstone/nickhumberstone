@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickhumberstone
 - 👀 I’m interested in politics, creating useful web apps, and changing the world for the better
-- 🌱 I’m currently learning HTML, CSS, JS and React
+- 🌱 I’m currently learning React Native, and mySQL
 - 💞️ I’m looking to collaborate on projects that bring about positive social change
 
 <!---
